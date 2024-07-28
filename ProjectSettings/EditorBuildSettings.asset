@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Dining Room.unity
+    guid: cc166ab187148ca4f844f3c60c889d13
+  - enabled: 1
+    path: Assets/Dining Room Demo.unity
+    guid: 63258771231af14459c69fabfc09cce4
   m_configObjects: {}
